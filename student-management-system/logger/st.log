@@ -1,0 +1,9 @@
+06 Mar 2022 21:56:47,240 StudentManagementSystemApplication [INFO] tran=vishal  -hello world
+06 Mar 2022 21:56:47,241 StudentManagementSystemApplication [ERROR] tran=vishal  -this is error check
+06 Mar 2022 21:56:47,242 Log4JRunnable [INFO] tran=vishal  -hello world
+06 Mar 2022 21:58:07,110 StudentManagementSystemApplication [INFO] tran=vishal  -hello world
+06 Mar 2022 21:58:07,111 StudentManagementSystemApplication [ERROR] tran=vishal  -this is error check
+06 Mar 2022 21:58:07,111 Log4JRunnable [INFO] tran=vishal  -hello world
+06 Mar 2022 22:01:53,750 StudentManagementSystemApplication [INFO] tran=vishal  -hello world
+06 Mar 2022 22:01:53,751 StudentManagementSystemApplication [ERROR] tran=vishal  -this is error check
+06 Mar 2022 22:01:53,752 Log4JRunnable [INFO] tran=vishal  -hello world

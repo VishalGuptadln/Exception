@@ -1,0 +1,7 @@
+02 Mar 2022 10:18:30,764 StudentManagementSystemApplication [INFO] tran=  -hello world
+02 Mar 2022 10:28:37,522 StudentManagementSystemApplication [INFO] tran=  -hello world
+02 Mar 2022 11:00:10,577 StudentManagementSystemApplication [INFO] tran=  -hello world
+02 Mar 2022 11:06:39,468 StudentManagementSystemApplication [INFO] tran=  -hello world
+02 Mar 2022 11:08:27,108 StudentManagementSystemApplication [INFO] tran=vishal  -hello world
+02 Mar 2022 11:47:09,464 StudentManagementSystemApplication [INFO] tran=vishal  -hello world
+02 Mar 2022 11:47:09,465 Log4JRunnable [INFO] tran=vishal  -hello world

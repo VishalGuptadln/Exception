@@ -1,0 +1,28 @@
+01 Mar 2022 14:41:27,058 StudentManagementSystemApplication [INFO] hello world
+ tx.id= tx.owner=
+01 Mar 2022 14:43:01,905 StudentManagementSystemApplication [INFO] hello world
+ tx.id= tx.owner=
+01 Mar 2022 14:45:49,891 StudentManagementSystemApplication [INFO] hello world
+ tx.id= tx.owner=
+01 Mar 2022 15:20:45,244 tx.id= tx.owner=
+ -hello world
+01 Mar 2022 15:21:58,010 StudentManagementSystemApplication [INFO] tx.id= tx.owner=
+ -hello world
+01 Mar 2022 15:24:03,264 StudentManagementSystemApplication [INFO] tx.id= tx.owner= -hello world
+01 Mar 2022 15:25:51,045 StudentManagementSystemApplication [INFO] tx.id= tx.owner= -hello world
+01 Mar 2022 15:27:15,757 StudentManagementSystemApplication [INFO] [] -hello world
+01 Mar 2022 15:43:07,297 StudentManagementSystemApplication [INFO]  -hello world
+01 Mar 2022 15:48:30,222 StudentManagementSystemApplication [INFO]  -hello world
+01 Mar 2022 15:51:53,647 StudentManagementSystemApplication [INFO]  -hello world
+01 Mar 2022 15:52:46,811 StudentManagementSystemApplication [INFO]   -hello world
+01 Mar 2022 16:08:17,031 StudentManagementSystemApplication [INFO] 
+  -hello world
+01 Mar 2022 16:12:07,304 StudentManagementSystemApplication [INFO] 2022-03-01 16:12:07,304 2022-03-01 16:12:07,304 -hello world
+01 Mar 2022 16:12:33,920 StudentManagementSystemApplication [INFO]   -hello world
+01 Mar 2022 17:29:02,751 StudentManagementSystemApplication [INFO]   -hello world
+01 Mar 2022 17:29:51,676 StudentManagementSystemApplication [INFO]   -hello world
+01 Mar 2022 17:50:36,341 com.vishal.sms.StudentManagementSystemApplication [INFO]   -hello world
+01 Mar 2022 17:56:55,862 StudentManagementSystemApplication [INFO]   -hello world
+01 Mar 2022 22:47:56,623 StudentManagementSystemApplication [INFO]   -hello world
+01 Mar 2022 22:54:40,496 StudentManagementSystemApplication [INFO]   -hello world
+01 Mar 2022 23:04:24,539 StudentManagementSystemApplication [INFO]   -hello world
